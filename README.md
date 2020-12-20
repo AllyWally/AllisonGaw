@@ -30,4 +30,4 @@
       You Don't always see them, but you know they're always there..."
 </pre>
 
-https://github-readme-stats.vercel.app/api?username=AllisonGaw&show_icons=true&theme=radical
+![Allison's github stats](https://github-readme-stats.vercel.app/api?username=AllisonGaw&show_icons=true&theme=radical)
