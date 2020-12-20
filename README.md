@@ -24,10 +24,10 @@
 <!-- BLOG-POST-LIST:END -->
 
 
+![Allison's github stats](https://github-readme-stats.vercel.app/api?username=AllisonGaw&show_icons=true&theme=radical)
+
 ## Quotes
 <pre>
 "Good friends are like stars.
       You Don't always see them, but you know they're always there..."
 </pre>
-
-![Allison's github stats](https://github-readme-stats.vercel.app/api?username=AllisonGaw&show_icons=true&theme=radical)
