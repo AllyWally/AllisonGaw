@@ -15,6 +15,7 @@
 
 <p>
   Javascript, Discord.js, HTML, CSS
+  
   Learning Currently: Python, PHP
 </p>
 
