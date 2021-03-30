@@ -14,8 +14,8 @@
 <br/>
 
 <p>
-  Javascript, Discord.js,
-  Learning Currently: HTML, and CSS
+  Javascript, Discord.js, HTML, CSS
+  Learning Currently: Python, PHP
 </p>
 
 ### 📕 Latest Blog Posts
